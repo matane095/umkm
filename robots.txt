@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://matane095.github.io/umkm/sitemap.xml
